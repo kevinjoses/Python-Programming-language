@@ -1,3 +1,5 @@
+# write a python program to find out a given nmber is pallindrome or not
+
 num=1634
 order=len(str(num))
 sum=0
